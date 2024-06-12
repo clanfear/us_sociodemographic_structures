@@ -5,6 +5,8 @@
 ltdb_path <- "data/raw/"
 
 # Set dubdirs with full and sample data
+# I assume here you keep thje folder names from the LTDB zip files, but you can
+# edit as needed.
 ltdb_full_path <- paste0(ltdb_path, "ltdb_std_all_fullcount/")
 ltdb_sample_path <- paste0(ltdb_path, "ltdb_std_all_sample/")
 

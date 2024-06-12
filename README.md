@@ -1,7 +1,7 @@
 # us_sociodemographic_structures
  
-The R code in this repository is used to process data from (Logan et al.'s 2021 Longitudinal 
-Tract Data Base)[https://s4.ad.brown.edu/projects/diversity/Researcher/Bridging.htm] into 
+The R code in this repository is used to process data from [Logan et al.'s 2021 Longitudinal 
+Tract Data Base](https://s4.ad.brown.edu/projects/diversity/Researcher/Bridging.htm) into 
 neighborhood sociodemographic composite measures such as concentrated disadvantage for the entire United States, 1990–2020.
 It also produces interpolated year-specific values for linking to life-course panel data such as the PHDCN.
 
