@@ -8,3 +8,8 @@ It also produces interpolated year-specific values for linking to life-course pa
 Using this repository requires data from [https://s4.ad.brown.edu/projects/diversity/Researcher/Bridging.htm](https://s4.ad.brown.edu/projects/diversity/Researcher/Bridging.htm). Specifically, you should obtain the "LTDB Standard data set" for both "Full Data" and "Sample" data files for all available years.
 
 See 00_file_paths.R for the expected file paths for the LTDB files.
+
+To generate the files, just run the scripts in numeric order. This will produce
+`.RData` files with four decennial years of data for each tract, reconciled to
+2010 tract boundaries. In doing so, it will also produce a tract boundary file
+that can be used to merge geolocated data with the tract data.
