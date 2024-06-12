@@ -52,4 +52,4 @@ rsconnect/
 *.RData
 
 # Ignore raw data
-data/raw/
+data/raw/*/
